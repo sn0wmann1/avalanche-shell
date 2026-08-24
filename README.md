@@ -1,10 +1,10 @@
 # Avalanche Shell
 
-Avalanche — a custom Quickshell-based desktop shell for Hyprland, evolved from the serpantinum project.
+Avalanche — a custom [Quickshell](https://quickshell.org/)-based desktop shell for Hyprland, evolved from the [serpantinum](https://github.com/ilyamiro/serpantinum) project.
 
 ## What it is
 
-A floating top bar + edge widgets + popup panels built on [Quickshell](https://quickshell.outfoxxed.de/), driven by Matugen theming. Replaces the caelestia shell on Freezer (snow's desktop).
+A floating top bar + edge widgets + popup panels built on [Quickshell](https://quickshell.org/), driven by Matugen theming. Replaces the caelestia shell on Freezer (snow's desktop).
 
 ## Launch
 
