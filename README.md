@@ -42,3 +42,8 @@ Symlink (or copy) `hypr/scripts/quickshell` and `hypr/scripts/qs_manager.sh` int
 - matugen (theming)
 - skwd (wallpaper daemon)
 - playerctl, wpctl (audio), networkmanager
+
+## TODO
+
+- [ ] **Custom installer** — one-command setup like serpantinum's installer (detect Hyprland, symlink shell files, register `exec-once`, optionally install deps).
+- [ ] **Personalize to taste** — differentiate the look/feel/behavior so Avalanche is clearly its own shell, not a serpantinum clone (own layout, branding, defaults, widget set).
